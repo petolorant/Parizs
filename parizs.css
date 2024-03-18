@@ -19,6 +19,16 @@ h1 {
     margin-top: 0px;
 }
 
+h2 {
+    font-size: 18px;
+    text-decoration: underline
+}
+
+h3 {
+    font-size: 14px;
+    font-style: italic;
+}
+
 #latnivalok {
     background-image: url('diadaliv.jpg');
     min-height: 500px;
